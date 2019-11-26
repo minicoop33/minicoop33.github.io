@@ -5,7 +5,7 @@ var outerwrapper = document.querySelector("#outerwrapper");
 var aveKDR = document.querySelector("#aveKDR");
 
 // https://afternoon-ridge-42970.herokuapp.com/
-var BASE_URL = "https://" #TODO
+var BASE_URL = "https://afternoon-ridge-42970.herokuapp.com";
 
 function getKD() {
 	fetch(BASE_URL + "/KDRs", {
