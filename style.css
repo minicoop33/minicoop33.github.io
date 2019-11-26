@@ -1,0 +1,145 @@
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	background-color: #a6acff;
+	min-width: 960px;
+	max-width: 2048px;
+	min-height: 700px;
+	color: #000000;
+	display: none;
+}
+
+#outerwrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	background-color: #a6acff;
+	min-width: 960px;
+	max-width: 2048px;
+	min-height: 700px;
+	color: #000000;
+	display: block;
+}
+
+#topper {
+	width: 100%;
+	background-color: #030821;
+	overflow: hidden;
+	color: #ffffff;
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	text-align: center;
+}
+
+#decide {
+	background-color: #3366ff; 
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	justify-content: center;
+}
+
+#center {
+	text-align:center;
+}
+
+.flex-grid-thirds {
+  display: flex;
+  justify-content: space-between;
+}
+.flex-grid-thirds .col {
+  width: 33%;
+}
+
+.container {
+	float: left;
+	text-align: center;
+	width: 50%;
+}
+
+.container input {
+	width: 25%;
+}
+
+
+body {
+	margin: 0;
+}
+
+.col {
+  padding: 20px;
+}
+
+.logo {
+	width: 75%;
+}
+
+#t {
+	border: none;
+	background-color: transparent;
+	outline: none;
+}
+
+#ct {
+	border: none;
+	background-color: transparent;
+	outline: none;
+}
+
+#resetButton {
+	align-content: right;
+}
+
+#starDiv {
+	padding: 30px;
+}
+
+/*#listBox{
+	width: 200px;
+  	margin: 0 auto;
+}*/
+
+#images img {
+	height: 100px;
+	width: 100px;
+	margin: 0 auto;
+}
+
+body {
+	background-color: #030821;
+}
+
+input {
+	width: 7%;
+}
+
+#aveKDR {
+	font-size: 40px;
+}
+
+table {
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+}
+
+
+td {
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  border-bottom: 1px solid black;
+}
+
+#edit {
+	display: none;
+}
